@@ -22,5 +22,5 @@ Find me on github: [bnguyen467](https://github.com/bnguyen467)
 Contact me through email: 467bnguyen@gmail.com
 
 ![example output](./public/assets/images/example-image-1.png)
-![example output](./public/assets/images/example-image-1.png)
+![example output](./public/assets/images/example-image-2.png)
 
