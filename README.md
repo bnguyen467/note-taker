@@ -9,6 +9,7 @@ This application uses:
 
 ## How to use
 Link goes here
+
 ## Get the code
 1. Clone the folder from github
 2. In the terminal, run the command "npm i"
@@ -20,5 +21,6 @@ Find me on github: [bnguyen467](https://github.com/bnguyen467)
 </br>
 Contact me through email: 467bnguyen@gmail.com
 
-
+![example output](./public/assets/images/example-image-1.png)
+![example output](./public/assets/images/example-image-1.png)
 
