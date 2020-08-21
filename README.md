@@ -20,8 +20,5 @@ Find me on github: [bnguyen467](https://github.com/bnguyen467)
 </br>
 Contact me through email: 467bnguyen@gmail.com
 
-### This is how the application looks like in the VS Code terminal
-**Follow the link to the video for more details:** https://www.youtube.com/watch?v=IGQ_98Q1VLA&feature=youtu.be
-</br>
-![example output](./Assets/images/output-example.png)
+
 
